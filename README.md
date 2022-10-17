@@ -21,3 +21,4 @@ Enables the ChatHistory experiment on twitch.tv and re-enables it after it turns
 
 ### [MySubreddits](https://gist.github.com/ikeman2003/1cd6c680f171ea3b71861bbc451d4a77)
 Adds the my subreddits tab to the top bar of the Old Reddit UI making it more convienent to get to your saved subreddits faster. <br/>
+![image](https://user-images.githubusercontent.com/96934345/196236033-faf91fc5-3c8d-470d-bf11-8c7dcd81e4c8.png)
