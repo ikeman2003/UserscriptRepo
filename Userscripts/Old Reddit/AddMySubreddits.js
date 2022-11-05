@@ -1,13 +1,15 @@
 // ==UserScript==
-// @name Add Reddit Top Menuitems (My Subreddits )
-// @description adds quickaccess menuitems: My Subreddits
-// @grant       none
-// @match          http://reddit.com/*
-// @match          https://reddit.com/*
-// @match          http://*.reddit.com/*
-// @match          https://*.reddit.com/*
-// @version     1.0.1
-// @namespace ikeman2003
+// @name 		 Add Reddit Top Menuitems (My Subreddits )
+// @description  adds quickaccess menuitems: My Subreddits
+// @grant        none
+// @match        http://reddit.com/*
+// @match        https://reddit.com/*
+// @match        http://*.reddit.com/*
+// @match        https://*.reddit.com/*
+// @version      1.1.0
+// @namespace	 ikeman2003
+// @downloadURL  https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Old%20Reddit/AddMySubreddits.js
+// @updateURL	 https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Old%20Reddit/AddMySubreddits.js
 // ==/UserScript==
 //http or https
 var http = window.location.href.search("reddit.com");

@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         AutoChatResize
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2.0
 // @description  Auto enable Twitch Chat Resize experiment
 // @author       ikeman2003 (fork of th3an7 AutoWARP)
+// @downloadURL  https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Twitch/AutoChatResize.js
+// @updateURL    https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Twitch/AutoChatResize.js
 // @match        https://www.twitch.tv/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitch.tv
 // @grant        unsafeWindow
