@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         AutoChatHistory
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2.0
+// @updateURL    https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/non-gist%20script%20store/Twitch/AutoChatHistory.js
 // @description  Auto enable Twitch Chat History experiment
 // @author       ikeman2003 (fork of th3an7 AutoWARP)
 // @match        https://www.twitch.tv/*
