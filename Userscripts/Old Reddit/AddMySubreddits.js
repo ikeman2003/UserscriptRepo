@@ -2,11 +2,11 @@
 // @name 		 Add Reddit Top Menuitems (My Subreddits )
 // @description  adds quickaccess menuitems: My Subreddits
 // @grant        none
-// @match        http://reddit.com/*
-// @match        https://reddit.com/*
-// @match        http://*.reddit.com/*
-// @match        https://*.reddit.com/*
-// @version      1.1.0
+// @match        http://old.reddit.com/*
+// @match        https://old.reddit.com/*
+// @match        http://*.old.reddit.com/*
+// @match        https://*.old.reddit.com/*
+// @version      1.1.1
 // @namespace	 ikeman2003
 // @downloadURL  https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Old%20Reddit/AddMySubreddits.js
 // @updateURL	 https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Old%20Reddit/AddMySubreddits.js
