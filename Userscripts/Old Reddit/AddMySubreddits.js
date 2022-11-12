@@ -6,8 +6,9 @@
 // @match        https://old.reddit.com/*
 // @match        http://*.old.reddit.com/*
 // @match        https://*.old.reddit.com/*
-// @version      1.1.1
-// @namespace	 ikeman2003
+// @version      1.1.2
+// @namespace 	 https://github.com/ikeman2003/UserscriptRepo
+// @author	     ikeman2003
 // @downloadURL  https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Old%20Reddit/AddMySubreddits.js
 // @updateURL	 https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Old%20Reddit/AddMySubreddits.js
 // ==/UserScript==
