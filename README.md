@@ -1,6 +1,8 @@
 # UserscriptRepo
 My TamperMoney Userscripts Repo <br/>
-This is more of a place where the Gists can be more organized.
+This ~~is~~ was more of a place where the Gists can be more organized.<br/><br/>
+I now use this as my main space for UserScripts for both ease of access<br/>
+for the user and because of the ease of updating them on my end.
 
 
 
