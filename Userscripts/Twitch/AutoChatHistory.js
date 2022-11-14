@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AutoChatHistory
 // @namespace    https://github.com/ikeman2003/UserscriptRepo
-// @version      0.2.1
+// @version      0.2.2
 // @description  Auto enable Twitch Chat History experiment
 // @author       ikeman2003 (fork of th3an7 AutoWARP)
 // @downloadURL  https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Twitch/AutoChatHistory.js
@@ -17,15 +17,15 @@
     function waitForFFZ() {
         setTimeout(function () {
             if (unsafeWindow.ffz == undefined) {
-                console.log('Waiting...');
+                console.log('[AutoChatHistory] Waiting...');
                 waitForFFZ();
             } else {
                 if (unsafeWindow.ffz.experiments.Cookie.getJSON().experiment_overrides.experiments['994869b7-223b-4d34-b30c-46b403d6468b'] != 'treatment') {
                     unsafeWindow.ffz.experiments.setTwitchOverride('994869b7-223b-4d34-b30c-46b403d6468b', 'treatment');
-                    console.log('Experiment enabled - reloading webpage...');
+                    console.log('[AutoChatHistory] Experiment enabled - reloading webpage...');
                     location.reload();
                 } else {
-                    console.log('Experiment already enabled...');
+                    console.log('[AutoChatHistory] Experiment already enabled...');
                     return;
                 }
             }
