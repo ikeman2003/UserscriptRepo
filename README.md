@@ -1,5 +1,5 @@
-# UserscriptRepo
-My TamperMoney Userscripts Repo <br/>
+# UserscriptRepo / UserstylesRepo
+My Userscripts and Userstyles Repo <br/>
 This ~~is~~ was more of a place where the Gists can be more organized.<br/><br/>
 I now use this as my main space for UserScripts for both ease of access<br/>
 for the user and because of the ease of updating them on my end.
