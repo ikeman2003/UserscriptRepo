@@ -15,10 +15,11 @@ Enables the ChatResize experiment on twitch.tv and re-enables it after it turns 
 
 
 ### [AutoChatHistory](https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Twitch/AutoChatHistory.js)
-Enables the ChatHistory experiment on twitch.tv and re-enables it after it turns itself back off on page load. **THIS REQUIRES THE [FFZ (FrankerFaceZ)](https://www.frankerfacez.com) EXTENTION**.
-
+Enables the ChatHistory experiment on twitch.tv and re-enables it after it turns itself back off on page load. **THIS REQUIRES THE [FFZ (FrankerFaceZ)](https://www.frankerfacez.com) EXTENTION**. <br/>
+![opera_rpJZZQlHQE](https://user-images.githubusercontent.com/96934345/202865998-ad46fbe0-7dd1-44e3-b7d3-a4856c67b9b6.gif)
 
 <br />
+
 
 ## [Old Reddit](https://old.reddit.com)
 
