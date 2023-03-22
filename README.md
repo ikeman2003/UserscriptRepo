@@ -26,3 +26,9 @@ Enables the ChatHistory experiment on twitch.tv and re-enables it after it turns
 ### [MySubreddits](https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Old%20Reddit/AddMySubreddits.js)
 Adds the my subreddits tab to the top bar of the Old Reddit UI making it more convienent to get to your saved subreddits faster. <br/>
 ![image](https://user-images.githubusercontent.com/96934345/196236033-faf91fc5-3c8d-470d-bf11-8c7dcd81e4c8.png)
+
+
+## [SoundGasm](https://soundgasm.net)
+
+### [SoundGasm Additional Buttons](https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/SoundGasm/SoundGasm-Additional-Buttons.js)
+Add download and copy URL buttons to the bottom of SoundGasm Pages.
