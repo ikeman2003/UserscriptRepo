@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SoundGasm Additional Buttons
 // @namespace    https://github.com/ikeman2003/UserscriptRepo
-// @version      0.2.1
+// @version      0.2.2
 // @description  Adds a download button and copy link button to the page
 // @author       ikeman2003
 // @downloadURL  https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/SoundGasm/SoundGasm-Additional-Buttons.js
@@ -91,11 +91,11 @@ function forceDownload(href) {
               document.body.appendChild(copyLinkButton);
           } else {
               console.log('[AdditionalButtons] Waiting...');
-              setTimeout(waitForAudio, 1000);
+              setTimeout(waitForAudio, 250);
           }
       } else {
           console.log('[AdditionalButtons] Waiting...');
-          setTimeout(waitForAudio, 1000);
+          setTimeout(waitForAudio, 250);
       }
   }
   waitForAudio();
