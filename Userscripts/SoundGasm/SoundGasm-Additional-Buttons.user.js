@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         SoundGasm Additional Buttons
 // @namespace    https://github.com/ikeman2003/UserscriptRepo
-// @version      0.2.2
+// @version      0.2.3
 // @description  Adds a download button and copy link button to the page
 // @author       ikeman2003
-// @downloadURL  https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/SoundGasm/SoundGasm-Additional-Buttons.js
-// @updateURL    https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/SoundGasm/SoundGasm-Additional-Buttons.js
+// @downloadURL  https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/SoundGasm/SoundGasm-Additional-Buttons.user.js
+// @updateURL    https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/SoundGasm/SoundGasm-Additional-Buttons.user.js
 // @match        https://soundgasm.net/*
 // @grant        GM_addStyle
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
