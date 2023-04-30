@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AutoChatHistory
 // @namespace    https://github.com/ikeman2003/UserscriptRepo
-// @version      0.2.3
+// @version      0.2.4
 // @description  Auto enable Twitch Chat History experiment
 // @author       ikeman2003 (fork of th3an7 AutoWARP)
 // @downloadURL  https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Twitch/AutoChatHistory.user.js
