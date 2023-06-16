@@ -34,3 +34,10 @@ Adds the my subreddits tab to the top bar of the Old Reddit UI making it more co
 ### [SoundGasm Additional Buttons](https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/SoundGasm/SoundGasm-Additional-Buttons.user.js)
 Add download and copy URL buttons to the bottom of SoundGasm Pages.<br/>
 ![image](https://user-images.githubusercontent.com/96934345/227063451-e225788c-4441-4924-8c92-a62400dbe8e9.png)
+
+<br />
+
+## [Lemmy/KBin](https://kbin.social)
+
+### [Lemmy/KBin Redir](https://github.com/ikeman2003/UserscriptRepo/raw/main/Userscripts/Lemmy/Lemmy%20Redir.user.js)
+Redirects several varients of Lemmy Pages to KBin for ease of navigation. *Note that more links will be added in the future. If you stumble upon links you would like added to the redirects, feel free to create an issue on github.<br/>
