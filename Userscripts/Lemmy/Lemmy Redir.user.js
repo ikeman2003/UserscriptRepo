@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Lemmy/KBin Redir
-// @version        0.2.0
+// @version        0.2.1
 // @author         ikeman2003
 // @description    Redirects all Lemmy/kbin links to the host of your choice mine being kbin.
 // @match          *://*.lemmy.ml/c/*   
@@ -11,6 +11,7 @@
 // @match          *://*.midwest.social/c/*
 // @downloadURL    https://github.com/ikeman2003/UserscriptRepo/raw/main/Userscripts/Lemmy/Lemmy%20Redir.user.js
 // @updateURL      https://github.com/ikeman2003/UserscriptRepo/raw/main/Userscripts/Lemmy/Lemmy%20Redir.user.js
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=kbin.social
 // @run-at         document-start
 // ==/UserScript==
 
