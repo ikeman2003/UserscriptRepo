@@ -40,4 +40,4 @@ Add download and copy URL buttons to the bottom of SoundGasm Pages.<br/>
 ## [Lemmy/KBin](https://kbin.social)
 
 ### [Lemmy/KBin Redir](https://github.com/ikeman2003/UserscriptRepo/raw/main/Userscripts/Lemmy/Lemmy%20Redir.user.js)
-Redirects several varients of Lemmy Pages to KBin for ease of navigation. *Note that more links will be added in the future. If you stumble upon links you would like added to the redirects, feel free to create an issue on github.<br/>
+Redirects several varients of Lemmy Pages to KBin for ease of navigation. *Note that more links will be added in the future. If you stumble upon links you would like added to the redirects, feel free to create an issue on github.*<br/>
