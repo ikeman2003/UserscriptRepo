@@ -9,6 +9,9 @@
 // @match          *://*.beehaw.org/c/*
 // @match          *://*.lemmy.world/c/*
 // @match          *://*.midwest.social/c/*
+// @match          *://*.lemmy.one/c/*
+// @match          *://*.lemmy.bdzer0.com/c/*
+// @match          *://*.hexbear.net/c/*
 // @downloadURL    https://github.com/ikeman2003/UserscriptRepo/raw/main/Userscripts/Lemmy/Lemmy%20Redir.user.js
 // @updateURL      https://github.com/ikeman2003/UserscriptRepo/raw/main/Userscripts/Lemmy/Lemmy%20Redir.user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kbin.social
@@ -43,4 +46,13 @@ if (currentURL.includes("lemmy.ml/c/")) {
 } else if (currentURL.includes("https://midwest.social/c/")) {
     const newURL = currentURL.replace(/^https?:\/\/(www\.)?midwest\.social\/c\//, hostURL);
     window.location.replace(newURL + "@midwest.social");
+} else if (currentURL.includes("https://lemmy.one/c/")) {
+    const newURL = currentURL.replace(/^https?:\/\/(www\.)?lemmy\.one\/c\//, hostURL);
+    window.location.replace(newURL + "@lemmy.one");
+} else if (currentURL.includes("https://lemmy.bdzer0.com/c/")) {
+    const newURL = currentURL.replace(/^https?:\/\/(www\.)?lemmy\.bdzer0\.com\/c\//, hostURL);
+    window.location.replace(newURL + "@lemmy.bdzer0.com");
+} else if (currentURL.includes("https://hexbear.net/c/")) {
+    const newURL = currentURL.replace(/^https?:\/\/(www\.)?hexbear\.net\/c\//, hostURL);
+    window.location.replace(newURL + "@hexbear.net");
 }
