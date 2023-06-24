@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Lemmy/KBin Redir
-// @version        0.2.1
+// @version        0.2.2
 // @author         ikeman2003
 // @description    Redirects all Lemmy/kbin links to the host of your choice mine being kbin.
 // @match          *://*.lemmy.ml/c/*   
