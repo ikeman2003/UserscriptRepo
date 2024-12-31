@@ -9,8 +9,8 @@ for the user and because of the ease of updating them on my end.
 ## [Twitch](https://twitch.tv)
 
 
-### [AutoChatResize](https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Twitch/AutoChatResize.user.js)
-Enables the ChatResize experiment on twitch.tv and re-enables it after it turns itself back off on page load. **THIS REQUIRES THE [FFZ (FrankerFaceZ)](https://www.frankerfacez.com) EXTENTION**. <br/>
+### ~~[AutoChatResize](https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Twitch/AutoChatResize.user.js)~~ (This is no longer available as a Twitch experiment)
+~~Enables the ChatResize experiment on twitch.tv and re-enables it after it turns itself back off on page load. **THIS REQUIRES THE [FFZ (FrankerFaceZ)](https://www.frankerfacez.com) EXTENTION**.~~ (Depricated) <br/>
 ![opera_djt4KRM19w](https://user-images.githubusercontent.com/96934345/196009289-ad97f129-c42a-4fb2-83d3-6777be3f4255.gif)
 
 
