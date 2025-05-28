@@ -41,3 +41,10 @@ Add download and copy URL buttons to the bottom of SoundGasm Pages.<br/>
 
 ### [Lemmy/KBin Redir](https://github.com/ikeman2003/UserscriptRepo/raw/main/Userscripts/Lemmy/Lemmy%20Redir.user.js)
 Redirects several varients of Lemmy Pages to KBin for ease of navigation. *Note that more links will be added in the future. If you stumble upon links you would like added to the redirects, feel free to create an issue on github.*<br/>
+
+<br />
+
+## [Discord](https://discord.com)
+
+### [Discord No Reply Mentions](https://raw.githubusercontent.com/ikeman2003/UserscriptRepo/main/Userscripts/Discord/No%20Reply%20Mentions.user.js)
+Sets Mention on Reply to Off by default, and adds Alt+m as a keyboard shortcut to toggle
