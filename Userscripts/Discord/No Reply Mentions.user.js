@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Discord - Do Not Mention on Replies By Default
-// @version      1.0
-// @description  Sets Mention on Reply to Off by default, and adds Alt+m as a keyboard shortcut to toggle
+// @version      1.1
+// @description  Sets Mention on Reply to Off by default, and adds Alt+p as a keyboard shortcut to toggle
 // @author       ikeman2003 (fork of Suyooo's version)
 // @license      Apache-2.0
 // @match        https://discordapp.com/*
@@ -30,7 +30,7 @@
     });
 
     function onKeyDown(e) {
-        if (e.key == "m" && e.altKey) {
+        if (e.key == "p" && e.altKey) {
             $("div[class*='mentionButton_']").click();
         }
     }
