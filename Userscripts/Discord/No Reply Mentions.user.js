@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Discord - Do Not Mention on Replies By Default
-// @version      1.2
+// @version      1.2.1
 // @description  Sets Mention on Reply to Off by default, and adds Alt+p as a keyboard shortcut to toggle
 // @author       ikeman2003 (fork of Suyooo's version)
 // @license      Apache-2.0
@@ -19,7 +19,7 @@
         mutations.forEach(function(mutation) {
             mutation.addedNodes.forEach( function(currentValue, currentIndex, listObj) {
                 if (currentValue.nodeType == Node.ELEMENT_NODE) {
-                    $("div[class*='_841c8f86lf7b2704-mentionButton`'][style*='color: var(--text-link);']", currentValue).click();
+                    $("div[class*='_841c8f861f7b2704-mentionButton'][style*='color: var(--text-link);']", currentValue).click();
                 }
             });
         });
@@ -31,7 +31,7 @@
 
     function onKeyDown(e) {
         if (e.key == "p" && e.altKey) {
-            $("div[class*='_841c8f86lf7b2704-mentionButton']").click();
+            $("div[class*='_841c8f861f7b2704-mentionButton']").click();
         }
     }
     window.addEventListener("keydown", onKeyDown, true);
