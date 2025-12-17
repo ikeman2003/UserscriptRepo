@@ -19,7 +19,7 @@
         mutations.forEach(function(mutation) {
             mutation.addedNodes.forEach( function(currentValue, currentIndex, listObj) {
                 if (currentValue.nodeType == Node.ELEMENT_NODE) {
-                    $("div[class*='mentionButton_'][style*='color: var(--text-link);']", currentValue).click();
+                    $("div[class*='_841c8f86lf7b2704-mentionButton`'][style*='color: var(--text-link);']", currentValue).click();
                 }
             });
         });
@@ -31,7 +31,7 @@
 
     function onKeyDown(e) {
         if (e.key == "p" && e.altKey) {
-            $("div[class*='mentionButton_']").click();
+            $("div[class*='_841c8f86lf7b2704-mentionButton']").click();
         }
     }
     window.addEventListener("keydown", onKeyDown, true);
