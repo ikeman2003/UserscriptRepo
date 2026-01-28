@@ -19,7 +19,7 @@
         mutations.forEach(function(mutation) {
             mutation.addedNodes.forEach( function(currentValue, currentIndex, listObj) {
                 if (currentValue.nodeType == Node.ELEMENT_NODE) {
-                    $("div[class*='_841c8f861f7b2704-mentionButton'][style*='color: var(--text-link);']", currentValue).click();
+                    $("div[class*='mentionButton__841c8'][style*='color: var(--text-link);']", currentValue).click();
                 }
             });
         });
